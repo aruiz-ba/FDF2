@@ -1,8 +1,6 @@
 # FDF2
 
-<iframe width="560" height="315" src="https://youtu.be/JddFkK3bB7o"
-frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/JddFkK3bB7o/0.jpg)](https://youtu.be/JddFkK3bB7o)
 
 Nueva version en c++ de FDF42 [Texto del enlace](https://github.com/aruiz-ba/FDF42) 
 un proyecto de modelado de paisajes en 3D con implementación del algoritmo de
