@@ -12,15 +12,11 @@ que ha dado al software una perspectiva completamente diferente.
 
 `` 
 git clone git@github.com:aruiz-ba/FDF42.git
-`` 
-`` 
+
 cd FDF42
 
-`` 
-`` 
 make
-`` 
-`` 
+
 ./fdf2 ./maps/FDF42
 `` 
 
