@@ -1,7 +1,5 @@
 # FDF2
 
-[![Alt text](https://img.youtube.com/vi/JddFkK3bB7o/0.jpg)](https://youtu.be/JddFkK3bB7o)
-
 Nueva version en c++ de FDF42 [Texto del enlace](https://github.com/aruiz-ba/FDF42) 
 un proyecto de modelado de paisajes en 3D con implementación del algoritmo de
 trazado de líneas rectas de Bresenham.
@@ -9,6 +7,10 @@ trazado de líneas rectas de Bresenham.
 Además de reescribir el programa en C++ y utilizar SDL para la gestión de
 ventanas y eventos, he optimizado el código y añadido matrices de rotación, lo
 que ha dado al software una perspectiva completamente diferente.
+
+https://user-images.githubusercontent.com/46310231/236180004-9fa202d5-7677-42d0-a732-96a97609eb87.mp4
+
+Videodemo animada con canción "50//50" de Vantage. No busco lucrarme ni infringir derechos de autor.
 
 ## Instalación
 
